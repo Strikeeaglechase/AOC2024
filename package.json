@@ -1,0 +1,19 @@
+{
+	"name": "AOC-2022",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"node-dijkstra": "^2.5.0"
+	},
+	"devDependencies": {
+		"@types/node-dijkstra": "^2.5.3"
+	}
+}
